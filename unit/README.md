@@ -125,7 +125,7 @@ header files, the convention is to suffix them with `.unit.c` or `.unit.h`.
 
 ## Contributing
 
-Contributions are made through [GitHub](http://www.github.com/emanuelpalm/unit).
+Contributions are made through [GitHub](http://www.github.com/emanuelpalm/plib).
 
 ### Style Guide
 
