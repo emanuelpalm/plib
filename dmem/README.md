@@ -60,7 +60,7 @@ int main()
 
 ## Contributing
 
-Contributions are made through [GitHub](http://www.github.com/emanuelpalm/dmem).
+Contributions are made through [GitHub](http://www.github.com/emanuelpalm/plib).
 
 ### Style Guide
 
